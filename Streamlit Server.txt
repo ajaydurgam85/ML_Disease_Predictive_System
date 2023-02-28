@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Ajay\Desktop\Multiple_Disease_Prediction\Multiple_Disease_Prediction.py"
